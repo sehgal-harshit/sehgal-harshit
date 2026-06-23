@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Harshit Sehgal 👋
 
-<!--
-**sehgal-harshit/sehgal-harshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**M.Sc. Automation & Robotics @ TU Dortmund** · Control systems · Model Predictive Control · Data-driven modeling
 
-Here are some ideas to get you started:
+I build the bridge between **machine learning and control** — using neural-network surrogates to make model predictive control fast enough to run in real time. Previously two years in EV product/project management at Tata.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Currently:** finishing my Master's thesis on neural surrogate models for robust MPC (graduating Nov 2026).
+🌱 **Targeting:** controls / GNC / robotics engineering roles in Europe.
+📫 **Reach me:** harshitsehgal.hs3@gmail.com · [LinkedIn](https://www.linkedin.com/in/harshit-sehgal)
+
+### Featured work
+- **[mpc-neural-surrogates](#)** — Master's thesis: learned surrogate models (NARX, multi-step NARX, TiDE + conformal prediction) embedded directly in MPC loops. Cuts solve times by orders of magnitude. *PyTorch Lightning · do-mpc · CasADi · l4casadi*
+- **[cobot-ros2-control](#)** — ROS 2 simulation & control stack for a 6-DoF myCobot 280 manipulator. *ROS 2 · Gazebo · Python*
+- **[narx-process-modeling](#)** — Deep NARX network for noisy raw chemical-process data.
+
+### Toolbox
+`Python` `PyTorch` `PyTorch Lightning` `scikit-learn` `NumPy/pandas/SciPy`
+`MPC (do-mpc, CasADi, l4casadi)` `MATLAB / Simulink` `ROS 2` `Gazebo` `Git` `Linux`
