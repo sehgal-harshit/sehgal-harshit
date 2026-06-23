@@ -9,7 +9,7 @@ I build the bridge between **machine learning and control** — using neural-net
 📫 **Reach me:** harshitsehgal.hs3@gmail.com · [LinkedIn](https://www.linkedin.com/in/harshit-sehgal)
 
 ### Featured work
-- **[mpc-neural-surrogates]([#](https://github.com/sehgal-harshit/mpc-neural-surrogates))** — Master's thesis: learned surrogate models (NARX, multi-step NARX, TiDE + conformal prediction) embedded directly in MPC loops. Cuts solve times by orders of magnitude. *PyTorch Lightning · do-mpc · CasADi · l4casadi*
+- **[mpc-neural-surrogates](https://github.com/sehgal-harshit/mpc-neural-surrogates)** — Master's thesis: learned surrogate models (NARX, multi-step NARX, TiDE + conformal prediction) embedded directly in MPC loops. Cuts solve times by orders of magnitude. *PyTorch Lightning · do-mpc · CasADi · l4casadi*
 - **[cobot-ros2-control](https://github.com/sehgal-harshit/cobot-ros2-control)** — ROS 2 simulation & control stack for a 6-DoF myCobot 280 manipulator. *ROS 2 · Gazebo · Python*
 - **[narx-process-modeling](#)** — Deep NARX network for noisy raw chemical-process data.
 
