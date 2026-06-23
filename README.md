@@ -1,4 +1,4 @@
-# Hi, I'm Harshit Sehgal 👋
+# Hello, I'm Harshit Sehgal
 
 **M.Sc. Automation & Robotics @ TU Dortmund** · Control systems · Model Predictive Control · Data-driven modeling
 
